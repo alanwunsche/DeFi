@@ -51,21 +51,41 @@
 
 ![](./slides/Slide17.jpeg)
 
+## Stable Tokens
+
 ![](./slides/Slide18.jpeg)
+https://www.coinbase.com/usdc
 
 ![](./slides/Slide19.jpeg)
+https://www.centre.io/usdc
 
+
+## Abra
 ![](./slides/Slide20.jpeg)
 
+# Uniswap
 ![](./slides/Slide21.jpeg)
+https://uniswap.org
+
+https://app.uniswap.org/#/swap
+
+# Aave
 
 ![](./slides/Slide22.jpeg)
+
+https://aave.com/
+
+
 
 ![](./slides/Slide23.jpeg)
 
 https://aave.com
 
 ![](./slides/Slide24.jpeg)
+
+## TokenFunder
+
+https://tokenfunder.com
 
 ![](./slides/Slide25.jpeg)
 
