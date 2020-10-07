@@ -67,6 +67,9 @@ https://aave.com
 
 ![](./slides/Slide24.jpeg)
 
+![](./slides/Slide25.jpeg)
+
+![](./slides/Slide26.jpeg)
 
 <br><br><br><br>
 
