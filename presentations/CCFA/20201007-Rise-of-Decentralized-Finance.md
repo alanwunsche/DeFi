@@ -30,6 +30,8 @@
 
 ![](./slides/Slide14.jpeg)
 
+https://pomp.substack.com/p/the-sec-chairman-sees-a-tokenized
+
 <br><br><br><br>
 
 
@@ -66,6 +68,9 @@ https://www.centre.io/usdc
 # Uniswap
 ![](./slides/Slide21.jpeg)
 https://uniswap.org
+[Uniswap Monthly Volume Surpasses Coinbase Under the Influence of the DeFi Craze](https://blockchain.news/news/uniswap-monthly-volume-coinbase-under-influence-defi-craze)
+
+https://blockchain.news/analysis/iso-20022-payments-revolution-central-banks-strike-back-against-bitcoin-defi-xrp-will-boom
 
 https://app.uniswap.org/#/swap
 
@@ -94,3 +99,6 @@ https://tokenfunder.com
 <br><br><br><br>
 
 - - - - -
+
+[ISO 20022—Central Banks Strike Back Against Bitcoin and DeFi Payments But XRP Price Will Surge](https://blockchain.news/analysis/iso-20022-payments-revolution-central-banks-strike-back-against-bitcoin-defi-xrp-will-boom)
+
