@@ -30,6 +30,8 @@
 
 ![](./slides/Slide14.jpeg)
 
+https://pomp.substack.com/p/the-sec-chairman-sees-a-tokenized
+
 <br><br><br><br>
 
 
@@ -51,21 +53,44 @@
 
 ![](./slides/Slide17.jpeg)
 
+## Stable Tokens
+
 ![](./slides/Slide18.jpeg)
+https://www.coinbase.com/usdc
 
 ![](./slides/Slide19.jpeg)
+https://www.centre.io/usdc
 
+
+## Abra
 ![](./slides/Slide20.jpeg)
 
+# Uniswap
 ![](./slides/Slide21.jpeg)
+https://uniswap.org
+[Uniswap Monthly Volume Surpasses Coinbase Under the Influence of the DeFi Craze](https://blockchain.news/news/uniswap-monthly-volume-coinbase-under-influence-defi-craze)
+
+https://blockchain.news/analysis/iso-20022-payments-revolution-central-banks-strike-back-against-bitcoin-defi-xrp-will-boom
+
+https://app.uniswap.org/#/swap
+
+# Aave
 
 ![](./slides/Slide22.jpeg)
+
+https://aave.com/
+
+
 
 ![](./slides/Slide23.jpeg)
 
 https://aave.com
 
 ![](./slides/Slide24.jpeg)
+
+## TokenFunder
+
+https://tokenfunder.com
 
 ![](./slides/Slide25.jpeg)
 
@@ -74,3 +99,6 @@ https://aave.com
 <br><br><br><br>
 
 - - - - -
+
+[ISO 20022—Central Banks Strike Back Against Bitcoin and DeFi Payments But XRP Price Will Surge](https://blockchain.news/analysis/iso-20022-payments-revolution-central-banks-strike-back-against-bitcoin-defi-xrp-will-boom)
+
