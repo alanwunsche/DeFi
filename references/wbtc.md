@@ -1,0 +1,7 @@
+https://defipulse.com/wbtc
+
+What is WBTC?
+
+WBTC is an ERC20 token that is backed 1:1 by bitcoin. The idea behind the token is to bring the vast liquidity of the Bitcoin network to Ethereum, and a crypto projects is working together to make that possible. BitGo handles the initial custody, and Kyber and Ren dipped into their Bitcoin holdings to supply the initial liquidity.
+
+WBTC is traded on various DEXes and centralized exchanges. Users can also swap their BTC for WBTC through any of eight initial merchants, who act as sources of token distribution: Dharma, Kyber, Set Protocol, GOPAX, AirSwap, Prycto, Ren, and DeversiFi. To swap, a user must undergo KYC/AML with a merchant, who supplies the user’s BTC to the custodian, who mints an equal amount of WBTC. The reverse is also possible: merchants can redeem BTC by burning WBTC tokens. Users can verify that WBTC is fully-backed via on-chain proof of reserves. The WBTC initiative is run by a DAO (decentralized autonomous organization) made up of 16 established projects, including DeFi projects such as Dharma, Compound, MakerDAO, and Set Protocol. Merchants and custodians may be added or removed through an open process controlled by a multi-signature contract maintained by members of the DAO.

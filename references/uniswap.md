@@ -1,0 +1,3 @@
+https://defipulse.com/uniswap
+
+Uniswap is a fully decentralized on-chain protocol for token exchange on Ethereum that uses liquidity pools instead of order books. Anyone can quickly swap between ETH and any ERC20 token or earn fees by supplying any amount of liquidity. And anyone can create a market (i.e., liquidity pool) by supplying an equal value of ETH and an ERC20 token. Uniswap allows only one market per ERC20 token. The market creator sets the exchange rate, which shifts through trading due to Uniswap’s "constant product market maker" mechanism. When trading reduces one side of the pair’s liquidity relative to the other, the price changes. This creates arbitrage opportunities, encouraging more trading.
