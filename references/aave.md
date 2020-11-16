@@ -16,5 +16,15 @@ Launched in Nov. 2017 as P2P lending project ETHLend and rebranded to Aave in Se
 Source: https://defipulse.com/aave
 
 - - - - -
+<br><br>
 
+# Aave Proposal Example
 
+https://governance.aave.com/t/proposal-add-support-for-regulated-canadian-mortgages/1392 
+
+- - - - -
+<br><br>
+
+# News
+
+https://twitter.com/aaveaave 

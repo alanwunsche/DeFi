@@ -10,11 +10,16 @@ DeFi (Decentralized Finance)
 
 <br>
 
+[The DeFi Market: DeFi Pulse](https://defipulse.com/)
+
+[DeFi Rate](https://defirate.com/)
+
+
 ## November 2020:
 
 This month's topics:
 
-[What is Aave (The Money Market Protocol)?](references/aave.md)
+[Aave, The Money Market Protocol](references/aave.md)
 <br>
 
 - - - - -
