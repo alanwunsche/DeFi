@@ -1,12 +1,17 @@
-# DeFi
-DeFi - Decentralized Finance
+# Discover DeFi
+DeFi (Decentralized Finance)
 
-Software is eating the World. Blockchain is eating Finance. Decentralized Finance (DeFi) is the latest blockchain-powered innovation currently transforming finance.
+1. Software is eating the World.
+2. Blockchain is eating Finance.
+3. Decentralized Finance (DeFi) is the latest blockchain-powered innovation transforming finance.
 
 - - - - -
+
 <br>
 
-## Areas to Explore:
+## November 2020:
+
+This month's topics:
 
 What are the new frameworks for Finance in a blockchain-powered digital world?
 
@@ -15,15 +20,22 @@ What are money legos?
 How are digital asset protocols evolving?
 
 - - - - -
+
 <br>
 
-## Presentations
-### CCFA - October 7, 2020
-[Presentation](presentations/CCFA/20201007-Rise-of-Decentralized-Finance.md) 
+## October 2020:
+
+<br>
+
+### Presentation to CCFA - October 7, 2020
+[Slides: Rise of Decentralized Finance](presentations/CCFA/20201007-Rise-of-Decentralized-Finance.md) 
+<br>
+
+  - The Rise of DeFi
+  - DeFi Framework and Key Concepts
+  - DeFi Applications
+  
 
 - - - - -
-<br>
 
-## References
-[References](references/README.md)
 
