@@ -1,10 +1,9 @@
----
+![](2020-11-15-23-33-41.png)
 
----
+![](2020-11-15-23-32-38.png)
+November 15,2020<br><br><br>
 
-https://defipulse.com/aave
-
-What is Aave?
+# What is Aave?
 
 Aave (from the Finnish word for "ghost") is an open source non-custodial protocol on Ethereum for decentralized lending and borrowing. For lenders, the protocol mints ERC20-compliant aTokens at a 1:1 ratio to supplied assets. Interest immediately starts compounding continuously, represented by a steady increase in the amount of aTokens held by the lender. This interest stream may be redirected to any address, separate from the aTokens that represent the underlying principal.
 
@@ -13,4 +12,9 @@ Users can borrow against most supplied assets; the collateralization ratio and l
 Aave offers flash loans: trustless, uncollateralized loans where borrowing and repayment must occur in the same transaction. Aimed at developers, this feature could lead to innovative uses of DeFi. Aave's native governance token is LEND; the only fees are 0.25% of originated loans and 0.09% of flash loans; these go toward burning LEND, rewarding lenders, and compensating affiliates.
 
 Launched in Nov. 2017 as P2P lending project ETHLend and rebranded to Aave in Sept. 2018, the protocol went live on mainnet in Jan. 2020 with 16 supported assets (13 can be used as collateral). Aave's code has undergone two external security audits, and Aave maintains a bug bounty program.
+
+Source: https://defipulse.com/aave
+
+- - - - -
+
 

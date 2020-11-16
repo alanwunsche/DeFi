@@ -4,6 +4,7 @@ DeFi (Decentralized Finance)
 1. Software is eating the World.
 2. Blockchain is eating Finance.
 3. Decentralized Finance (DeFi) is the latest blockchain-powered innovation transforming finance.
+<br><br>
 
 - - - - -
 
@@ -13,11 +14,8 @@ DeFi (Decentralized Finance)
 
 This month's topics:
 
-What are the new frameworks for Finance in a blockchain-powered digital world?
-
-What are money legos? 
-
-How are digital asset protocols evolving?
+[What is Aave (The Money Market Protocol)?](references/aave.md)
+<br>
 
 - - - - -
 
